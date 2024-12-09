@@ -19,19 +19,19 @@ function switchTestimonials({ target }) {
     switch (numberButton) {
         case '1':
             imagePath = "assets/images/alex-image.jpg";
-            namePeople = 'Alex Thelles';
+            namePeople = 'Alex Theles';
             textTestimonial = '  Excelente experiência! A comida é preparada com maestria pelo chef, o atendimento é profissional e a comunicação com os clientes é perfeita. Recomendo fortemente!';
 
             break;
         case '2':
             imagePath = "assets/images/jane-image.jpg";
-            namePeople = 'Jane Frank';
+            namePeople = 'Janaina Lima';
             textTestimonial = 'Um jantar perfeito do começo ao fim. Comida e serviço foram tão maravilhosos que fomos dois dias seguidos. fato inédito para mim em uma viagem.';
 
             break;
         case '3':
             imagePath = "assets/images/michael-image.jpg";
-            namePeople = 'Michael Lima';
+            namePeople = 'João Carlos';
             textTestimonial = 'A comida estava excelente e o serviço gentil nos surpreendeu! Dica: reserve umas 3 horas para ter uma experiência incrível.';
 
             break;
